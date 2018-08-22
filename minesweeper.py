@@ -90,8 +90,6 @@ class cell(object):
 class game(object):
     pass
 
-# asd=grid()
-# print asd
 first_game = True
 while True:
     if not first_game:
